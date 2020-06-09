@@ -1,3 +1,11 @@
 .*sw*
 Sample_InOut
 Test10-EncryptedMessage.pdf
+
+# binaries
+Test10
+Test10.amd64
+Test10_amd64.exe
+Test10_osx.exe
+Test10.x86
+Test10_x86.exe
